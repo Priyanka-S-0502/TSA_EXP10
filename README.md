@@ -53,6 +53,7 @@ plt.ylabel('Power Consumption Zone 1')
 plt.title('SARIMA Model Predictions for Power Consumption Zone 1')
 plt.legend()
 plt.show()
+```
 
 ### OUTPUT:
 
